@@ -10,11 +10,7 @@ const swiper = new Swiper(".swiper-slider", {
     enabled: true
   },
 
-  // Enabled autoplay mode
-  autoplay: {
-    delay: 3000,
-    disableOnInteraction: false
-  },
+ 
 
   // If we need pagination
   pagination: {
